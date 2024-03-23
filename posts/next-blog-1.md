@@ -113,6 +113,8 @@ h3 {
 }
 ```
 
+[repository](https://github.com/nkuro3/nkuro-blog/tree/next-blog-1)
+
 ### Markdown to HTML
 
 いくつかモジュールがありそうだったのですが、一番シンプルに書けそうだったので、`react-markdown`を採用しました。
